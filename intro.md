@@ -2,8 +2,8 @@
 <LINK REL=StyleSheet HREF="styles.css" TYPE="text/css">
 <img src="img/railsbridge_logo.png">
 # Ruby on Rails Workshop
-### October 5th & 6th, 2010
-#### hashtag #mountainrb
+### Feb 4th & 5th 2011
+#### hashtag #chiwow
 
 !SLIDE
 
@@ -20,18 +20,11 @@
 * See github.com/railsbridge
 
 !SLIDE centereverything
-<img src="img/pivotal_labs_logo.png" width="200" />&nbsp;&nbsp;
-<img src="img/mountainrb.jpg" width="300"/>&nbsp;&nbsp;
-<img src="img/blazing_cloud_logo.png" width="200"/>&nbsp;&nbsp;
-
-!SLIDE
-
-# Why are we here?
-* www.bouldercountysafehouse.org
-* www.bouldershelter.org
-* zbelieve.org
-* www.kempe.org
-* www.bcap.org
+<img src="img/hashrocket.png" width="200"/>&nbsp;&nbsp;
+<img src="img/drw.png" width="200"/>&nbsp;&nbsp;
+<img src="img/8thlight.png" width="200"/>&nbsp;&nbsp;
+<img src="img/obtiva.png" width="200"/>&nbsp;&nbsp;
+<img src="img/elevated_rails.png" width="200"/>&nbsp;&nbsp;
 
 !SLIDE
 
@@ -158,4 +151,4 @@
 * 1:00-2:15 Session 3
 * 2:30-3:30 Session 4
 * 3:30-4:00 Wrap up & final questions
-* 5:00- conference reception at the Boulderado
+* 5:00- Drinks and Mingle 
